@@ -58,6 +58,7 @@
     </Compile>
     <Compile Include="ZuehlkeEmailSenderModule.cs" />
     <Compile Include="Tests\EmailSenderTest.cs" />
+    <Compile Include="ZuehlkeSmtpClientProvider.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
